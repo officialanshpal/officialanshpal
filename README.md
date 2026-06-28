@@ -1,6 +1,6 @@
 # Hi, I'm Ansh Pal 👋
 
-B.Tech Computer Science student passionate about building technology that solves real problems — especially for India.
+B.Tech Computer Science student passionate about building technology that solves real problems .
 
 ---
 
